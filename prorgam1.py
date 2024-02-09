@@ -1,3 +1,15 @@
+# 1     Write python programs , which accept two inputs and perform the following arithmetic operations
+# 	i)    Addition (+)
+#         ii)   Subtraction (-)
+#         iii)  Multiplication (*)
+#         iv)   Division (/)
+#         v)    Modulus (%)
+#         vi)   Exponentiation (**)
+#         vii)  Floor Division (//)  
+
+
+
+
 n1=int(input("enter a number= "))
 n2=int(input("enter a number= "))
 

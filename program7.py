@@ -6,4 +6,4 @@ num=int(input("enter the num"))
 limit=int(input("enter the limit"))
 for i in range(1,limit+1):
     res=i*num
-    print(f"{i}*{num}={res}")
+    print(f"{i} * {num} = {res}")

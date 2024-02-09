@@ -8,5 +8,5 @@ for i in range(lower,upper+1):
         even.append(i)
     else:
         odd.append(i)
-print("even",even)
-print("odd",odd)
+print("even=",even)
+print("odd=",odd)
